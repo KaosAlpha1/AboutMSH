@@ -11,9 +11,16 @@ h1{
 	color: pink;
 	margin-right: auto;
     margin-right: auto;
-	
+	animation: color-change 1s infinite;
 	
 }
+	@keyframes color-change {
+	  0% { color: red; }
+	  50% { color: blue; }
+	  100% { color: red; }
+	
+	
+
 .tag {
 	Color: pink;
 	background: black;
