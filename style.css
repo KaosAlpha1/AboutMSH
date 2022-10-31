@@ -1,0 +1,38 @@
+body{
+	background-image: url("Images/d4r825n-29f8f915-0151-4a19-9665-a1b54f9ba764.gif");
+	background-size: cover;
+	text-align: center;
+	color: lightgreen;
+}
+h1{
+	
+	padding: 40px;
+	background: black;
+	color: pink;
+	margin-right: auto;
+    margin-right: auto;
+	
+	
+}
+.tag {
+	Color: pink;
+	background: black;
+	padding: 16px;
+	font-size: 21px;
+}
+
+.lists{
+	
+	color: orangered;
+	background: white;
+	border: 5px solid red;
+}
+.mark{
+	
+	font-size: 21px;
+	font-family: cursive;
+	border: 5px solid aqua;
+	background: beige;
+	color:darkblue; 
+	
+}
